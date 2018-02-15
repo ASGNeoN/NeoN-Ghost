@@ -1,0 +1,5 @@
+author = ASGNeoN & Gh0st (Devs) Rartrin & Luiafk (some codes), Storm Gh0st abyss2k Frey (Sprites)
+version = 0.1.6.8
+displayName = NeoN Gh0st Mod
+includeSource = true
+homepage = https://forums.terraria.org/index.php?threads/neons-mods.60175/
