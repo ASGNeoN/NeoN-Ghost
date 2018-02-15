@@ -1,0 +1,54 @@
+Version 0.1.6.7
+-Fixed a bug
+---------------------------------------------------------------------------------
+Version 0.1.6.6
+-Fixed a recipe
+---------------------------------------------------------------------------------
+Version 0.1.6.5
+-Added back the SoulSlinger
+---------------------------------------------------------------------------------
+Version 0.1.6.4
+-Readded all the Converted Weapons and items for compatibility's sake, they 
+will be usable only if Converted Weapons is enabled.
+---------------------------------------------------------------------------------
+Version 0.1.6.3
+-Readded the Crystallizer, Dusts and Gems are craftable again now
+---------------------------------------------------------------------------------
+Version 0.1.6.2
+-Added back the projectiles in the game
+---------------------------------------------------------------------------------
+Version 0.1.6.1
+-Updated for 0.10, many items are not in a working state for now, please be
+patient
+---------------------------------------------------------------------------------
+Version 0.1.5
+-Added the Throwing and Summon converter
+-Added new converted weapons
+---------------------------------------------------------------------------------
+Version 0.1.4
+-Added many converted weapons and the melee converter
+---------------------------------------------------------------------------------
+Version 0.1.3.0
+-Fixed the bug where the gem staves were craftable only at a Mythril Anvil
+-Added a Grapple Gun and a Steel Broadsword
+-Reworked the sprite for the Crystallizer, it's going to be modified a bit
+in the later patches, transitioning to this update could bug the crystallizer.
+---------------------------------------------------------------------------------
+Version 0.1.2
+-Added two new gem staves prehardmode
+-Added two new gems
+-The three Hearts are now animated
+-Added a dev accessory
+----------------------------------------------------------------------------------
+Version 0.1.1
+-Slowed down the swing speed of the Granite Greatsword
+-Added Gusty Heart and Dew Heart, they allow the spawning of a rain/sandstorm,
+just like Wisdom Heart works for the Expert mode (Thanks Luiafk for the code!)
+---------------------------------------------------------------------------------- 
+Version 0.1
+-Nerfed Crystallizer recipes, mostly because enraged complaints.
+-Introduced Granite hardmode post mech sets
+-Made Phoenix Soul behave better when shot
+----------------------------------------------------------------------------------
+Version 0.0.1
+-Changed the mod to NeoN Gh0st mod, because now Gh0st is working with me on it
